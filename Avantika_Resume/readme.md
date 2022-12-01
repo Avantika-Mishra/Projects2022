@@ -1,7 +1,7 @@
-Resume:- 
-( https://github.com/Avantika-Mishra/Projects2022.git/Avantika_Resume/index.html )
+Resume:-
+( https://Avantika-Mishra.github.io/Projects2022/Avantika_Resume/index.html )
 
-or
+or 
 
-( https://github.com/Avantika-Mishra/Projects2022.git/Avantika_Resume/Avantika.html )
+( https://Avantika-Mishra.github.io/Projects2022/Avantika_Resume/Avantika.html )
 
