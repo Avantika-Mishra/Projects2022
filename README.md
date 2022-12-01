@@ -1,6 +1,6 @@
 # Projects2022
 My Projects GitHub Repository
 Resume:- 
-( https://github.com/Avantika-Mishra/Projects2022.git/Avantika_Resume/index.html )
+( https://avantika-mishra.github.io/Projects2022/Avantika_Resume/index.html )
 or
-( https://github.com/Avantika-Mishra/Projects2022.git/Avantika_Resume/Avantika.html )
+( https://avantika-mishra.github.io/Projects2022/Avantika_Resume/Avantika.html )
